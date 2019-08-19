@@ -4,6 +4,7 @@
 [![Repo-Size](https://img.shields.io/github/repo-size/dpploy/engy-5140)](https://github.com/dpploy/engy-5140)
 [![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/chen-1070)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/engy-5140/master)
+[![NBViewer](https://github.com/jupyter/design/blob/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.jupyter.org/github/dpploy/engy-5140/tree/master/notebooks)
 
    + [University of Massachusetts Lowell](https://www.uml.edu/), Spring 2019
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Program)
