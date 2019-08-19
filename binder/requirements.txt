@@ -1,0 +1,10 @@
+pip
+matplotlib
+numpy
+pandas
+pytest
+scipy
+plotly
+ipywidgets
+mendeleev
+jupyter_contrib_nbextensions
