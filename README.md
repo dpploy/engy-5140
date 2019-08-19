@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website/https/github.com/dpploy/engy-5140?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)](https://github.com/dpploy/engy-5140)
 [![Repo-Size](https://img.shields.io/github/repo-size/dpploy/engy-5140)](https://github.com/dpploy/engy-5140)
+[![Azure Notebooks](https://notebooks.azure.com/launch.svg)](https://notebooks.azure.com/dealmeidavf/projects/chen-1070)
 
    + [University of Massachusetts Lowell](https://www.uml.edu/), Spring 2019
    + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Program)
