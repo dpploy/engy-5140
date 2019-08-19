@@ -1,5 +1,4 @@
-# Engy-5140
-Chemical and Nuclear Waste Processing
+# Engy-5140 Chemical and Nuclear Waste Processing
 
 ![Website](https://img.shields.io/website/https/github.com/dpploy/engy-5140?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)
 
