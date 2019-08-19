@@ -4,7 +4,7 @@ Chemical and Nuclear Waste Processing
 ![Website](https://img.shields.io/website/https/github.com/dpploy/engy-5140?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online)
 
    + [University of Massachusetts Lowell](https://www.uml.edu/), Spring 2019
-   + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/)
+   + [Dept. of Chemical Engineering](https://www.uml.edu/Engineering/Chemical/) (Nuclear Program)
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
 
 The goal of this [course](https://github.com/dpploy/engy-4350) is to present to undergraduate students of nuclear chemical engineering the elements of nuclear energy conversion to (electrical) work. This is done primarily in large scale power reactors by using nuclear heat. Although there are direct ways to convert nuclear energy into electricity, the focus of this course is on the prevalent mode of energy transfer using nuclear heat.
