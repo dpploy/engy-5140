@@ -15,8 +15,8 @@ The goal of this [course](https://github.com/dpploy/engy-5140) is to present to 
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email.
 
-This course uses Jupyter Notebooks in Python programming language. The content can be accessed in
-the following ways:
+This course uses Jupyter Notebooks in Python programming language. **The content can be accessed in
+the following ways:**
 + Static HTML version of the notebooks will be displayed on the current browser if a
 notebook file listed in the code repository is clicked on. This will not allow for rendering mathematical formulae. Alternatively you can render the notebooks on [NBViewer](http://nbviewer.jupyter.org/) by clicking on the `render|nbviewer` badge above.
 + Click on the `Azure Notebooks|launch` above to use the Azure Notebook service; this is practical since you can use your UMass Lowell credentials to login into the site and use the GitHub upload option to clone the repository in your account.
