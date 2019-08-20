@@ -11,7 +11,7 @@
    + [Prof. Valmor F. de Almeida](https://www.uml.edu/Engineering/Chemical/faculty/de-Almeida-Valmor.aspx) (valmor_dealmeida@uml.edu)
    + [Prof. Sukesh Aghara](https://www.uml.edu/Engineering/Chemical/faculty/Aghara-Sukesh.aspx) (sukesh_aghara@uml.edu)
 
-The goal of this [course](https://github.com/dpploy/engy-5140) is to present to graduate and senior undergraduate students of nuclear chemical engineering and allied academic programs, fundamentals of waste processing. Methods of inter-disciplinary physico-chemical tranport phenomena will be covered as applied to hazardous waste to reduce, recycle, and dispose toxic materials in the general chemical and nuclear industry. To the extent possible this course will cover modeling and simulation approaches used to process waste from a *system* level of theory. Other sub-scale theories will be covered on a needed basis.
+The goal of this [course](https://github.com/dpploy/engy-5140) is to present to graduate students and senior undergraduate students of nuclear chemical engineering (and allied academic programs), fundamentals of waste processing. Methods of inter-disciplinary physico-chemical tranport phenomena will be covered as applied to hazardous waste to reduce, recycle, and dispose toxic materials in the general chemical and nuclear industry. To the extent possible, this course will cover modeling and simulation approaches used to process waste from a *system* level of theory. Other sub-scale theories will be covered on a needed basis.
 
 Feedback and collaboration to improve this course are welcome through GitHub `pull requests` and `issues` or direct email.
 
