@@ -125,20 +125,20 @@ def forward_solve(l_mtrx, b_vec, loop_option='use-dot-product'):
 def plot_matrix(mtrx, color_map='bw', title=None):
     '''
     Plot matrix as an image.
-    
+
     Parameters
     ----------
     mtrx: numpy.ndarray, required
-          Matrix data. 
-    color_map: str, optional 
+          Matrix data.
+    color_map: str, optional
                Color map for image: 'bw' black and white
-    title: str, optional 
-           Title for plot.     
-            
+    title: str, optional
+           Title for plot.
+
     Returns
     -------
-    None: 
-           
+    None:
+
     Examples
     --------
 
@@ -155,10 +155,11 @@ def plot_matrix(mtrx, color_map='bw', title=None):
 
     plt.figure(1)
     if color_map == 'bw':
-        plt.imshow(np.abs(mtrx),cmap='gray')
+        #plt.imshow(np.abs(mtrx),cmap='gray')
+        plt.matshow(np.abs(mtrx),fignum=1)
     else:
         plt.imshow(mtrx,cmap=color_map)
-    if title is not None: 
+    if title is not None:
         plt.title(title,fontsize=14)
     print('matrix shape =',mtrx.shape)  # inspect the array shape
 
@@ -303,7 +304,6 @@ def read_arrhenius_experimental_data(filename):
             idx += 1
             
     return (r_cte, r_cte_units, n_pts, temp, k_cte)
-
 #*********************************************************************************
 def plot_arrhenius_experimental_data( temp, k_cte ):
     
@@ -340,7 +340,6 @@ def plot_arrhenius_experimental_data( temp, k_cte ):
     print('')
 
     return
-
 #*********************************************************************************
 def color_map( num_colors ):
 
