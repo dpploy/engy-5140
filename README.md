@@ -10,7 +10,7 @@
 
 |   |
 |:---:|
-| <img width="550" src="notebooks/images/gas-absorption.png" title="Solution"> |
+| <img width="850" src="notebooks/images/gas-absorption.png" title="Solution"> |
 
 The goal of this [course](https://github.com/dpploy/ct-540) is to present to graduate students and senior undergraduate students of nuclear chemical engineering (and allied academic programs), fundamentals of waste processing. Methods of inter-disciplinary physico-chemical transport phenomena will be covered as applied to hazardous waste to reduce, recycle, and dispose toxic materials in the general chemical and nuclear industry. To the extent possible, this course will cover modeling and simulation approaches used to process waste from a *system* level of theory. Other sub-scale theories will be covered on a needed basis.
 
