@@ -1,6 +1,6 @@
 # CT-540 Chemical and Nuclear Waste Processing
 
-[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/ct-540/tree/main/notebooks/)
+[![NBViewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/dpploy/ct-540/tree/master/notebooks/)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dpploy/ct-540/master?filepath=notebooks)
 ![Website](https://img.shields.io/website/https/github.com/dpploy/ct-540.svg)
 [![Size](https://img.shields.io/github/repo-size/dpploy/ct-540.svg?label=size&style=flat)](https://github.com/dpploy/ct-540)
